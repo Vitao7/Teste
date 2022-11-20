@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Ex5 {
     public static void main(String[] args) {
         Scanner texto = new Scanner(System.in);
-
+//
 
         double salario;
         System.out.printf("Digite seu salario: \n");
